@@ -17,7 +17,7 @@
 # Setup .vimrc
 echo ""
 echo "... Creating the .vimrc file"
-cp _vimrc ~/.vimrc
+cp ~/my-vim-config/_vimrc ~/.vimrc
 
 # Setting up pathogen.vim
 echo ""
